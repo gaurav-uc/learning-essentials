@@ -1,5 +1,4 @@
 import re
-CASE_NUMBER_PREFIX_REGEX_STRING = r'\d+(?P<prefix>[a-zA-Z]+)(?P<raw_case_number>\d+)'
 
 case_prefix_list = []
 
